@@ -57,8 +57,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Salesforce for Beginners [[Packt]](https://www.packtpub.com/product/salesforce-for-beginners/9781838986094?utm_source=github&utm_medium=repository&utm_campaign=9781838986094) [[Amazon]](https://www.amazon.com/dp/B085G2G8PT)
 
 ## Get to Know the Author
-**Ankur Jain**
-Ankur Jain is passionate about learning new technologies and exploring new things on his own. He has worked on a number of different technology stacks, including Oracle OIC, VB, API Platform, Oracle SOA, OSB, WebCenter Content, and Java. He has implemented various projects on Oracle Integration and the Visual Builder.
+**Ankur Jain** is passionate about learning new technologies and exploring new things on his own. He has worked on a number of different technology stacks, including Oracle OIC, VB, API Platform, Oracle SOA, OSB, WebCenter Content, and Java. He has implemented various projects on Oracle Integration and the Visual Builder.
 He has earned various prestigious awards and recognition from different groups and communities, including Oracle’s elite Oracle ACE program. He has become a spotlight member of the Oracle Cloud community, UKOUG has published an article in PTK issue number 73, the tech edition, he is OIC certified, and has been selected as a speaker to present a paper at the Groundbreakers Yatra, organized by AIOUG.
 He is a prolific blogger and YouTuber, helping thousands of users to learn.
 

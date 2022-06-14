@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B16962?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Effortless App Development with Oracle Visual Builder
 
 <a href="https://www.packtpub.com/programming/effortless-app-development-with-oracle-visual-builder-cloud-service?utm_source=github&utm_medium=repository&utm_campaign=9781800569805"><img src="https://static.packt-cdn.com/products/9781800569805/cover/smaller" alt="Effortless App Development with Oracle Visual Builder" height="256px" align="right"></a>

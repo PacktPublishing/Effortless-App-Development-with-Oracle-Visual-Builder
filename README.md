@@ -61,3 +61,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 He has earned various prestigious awards and recognition from different groups and communities, including Oracle’s elite Oracle ACE program. He has become a spotlight member of the Oracle Cloud community, UKOUG has published an article in PTK issue number 73, the tech edition, he is OIC certified, and has been selected as a speaker to present a paper at the Groundbreakers Yatra, organized by AIOUG.
 He is a prolific blogger and YouTuber, helping thousands of users to learn.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800569805">https://packt.link/free-ebook/9781800569805 </a> </p>
